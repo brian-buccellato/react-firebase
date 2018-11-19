@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2c2cae !important;
+    background: url('/img/bnw.jpg') no-repeat;
+    background-size: 105vw 105vw;
+    min-height: 100%;
+
+    form {
+        padding: 25px;
+        margin: 60px 0;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    input[type='text']:not(.browser-default):focus:not([readonly]),
+    input[type='email']:not(.browser-default):focus:not([readonly]),
+    input[type='password']:not(.browser-default):focus:not([readonly]),
+    textarea.materialize-textarea:focus:not([readonly]) {
+        border-color: #1a237e;
+        box-shadow: none;
+    }
+}

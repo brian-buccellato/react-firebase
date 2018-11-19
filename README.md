@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Credits
+
+This project was built following along with `React, Redux, & Firebase App Tutorial` by "The Net Ninja". The full playlist can be found [here.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+
 ## Available Scripts
 
 In the project directory, you can run:
